@@ -47,11 +47,6 @@ const endGame = (isDraw) => {
     winningMessage.classList.add("show-winning-message");
 };
 
-//função para reiniciar o jogo
-
-
-
-
 
 //função que verifica a vitória
 const checkforWin = (currentPlayer) => { // currentPlayer, simbolo atual
